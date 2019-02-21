@@ -1,0 +1,50 @@
+.headerbar .headerbar-left {
+    background-color: #1b5262 !important;
+}
+.navbar-custom {
+    background-color: #1b5262 !important;
+}
+.main-sidebar {
+    background: #1b5262 !important;
+}
+#sidebar-menu > ul > li > a.active {
+    background-color: #a0ba82 !important;
+}
+.bg-primary {
+    background-color: #a0ba82 !important;
+}
+.text-primary {
+    color: #a0ba82 !important;
+}
+.nav-pills .nav-item.show .nav-link, .nav-pills .nav-link.active {
+    background-color: #a0ba82 !important;
+}
+#main.enlarged #sidebar-menu ul ul li.active a {
+    color: #a0ba82 !important;
+}
+.btn-primary {
+    background-color: #a0ba82 !important;
+    border-color: #a0ba82 !important;
+}
+.btn-outline-primary {
+    color: #a0ba82 !important;
+    border-color: #a0ba82 !important;
+}
+.btn-outline-primary:hover, .btn-outline-primary:focus, .btn-outline-primary:active, .btn-outline-primary.active,
+.btn-outline-primary.focus, .btn-outline-primary:active, .btn-outline-primary:focus, .btn-outline-primary:hover,
+.open > .dropdown-toggle.btn-outline-primary {
+  background-color: #a0ba82 !important;
+  border-color: #a0ba82 !important;
+}
+.dropdown-item.active, .dropdown-item:active {
+	background-color: #a0ba82 !important;
+}
+.notif .noti-title {
+    background-color: #a0ba82 !important;
+}
+/* .btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active,
+.btn-info.focus, .btn-info:active, .btn-info:focus, .btn-info:hover,
+.open > .dropdown-toggle.btn-info {
+  background-color: #a0ba82 !important;
+  border-color: #a0ba82 !important;
+  } */
